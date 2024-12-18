@@ -1,0 +1,4 @@
+Hello World!
+For using the program to run follow the instruction that program tells 
+you to follow during running the cmd-console notepad program;
+and type (EXIT) to disable typing in the file.
